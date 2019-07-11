@@ -1,4 +1,4 @@
-##Ingredients##
+## Ingredients
 
 4 tbsp vegetable oil
 2 15oz cans black beans
@@ -17,7 +17,8 @@ salt and pepper
 Cheese for topping
 6-8 Hamburger buns
 
-##Instructions##
+## Instructions
+
 1. Preheat oven to 350.
 1. Wash and strain black beans (2 cans) and spread on foil lined baking sheet.
 1. Cook black beans for 20 minutes or until the beans are getting a bit of a crunch and the skins are mostly split open. Let cool.
