@@ -1,21 +1,20 @@
 ## Ingredients
 
-4 tbsp vegetable oil
-2 15oz cans black beans
-1 medium onion, finely chopped (~1 cup)
-1 large poblano pepper, finely chopped (~1 cup)
-3 medium cloves garlic, minced
-1 chipotle chili in adobo sauce, finely chopped
-1 tsp adobo sauce (from chili can)
-3/4 cup roasted cashews
-1/2 cup crumbled feta or cojita cheese
-2 tbsp mayonnaise
-1 egg
-3/4 cup panko bread crumbs
-salt and pepper
-
-Cheese for topping
-6-8 Hamburger buns
+* 4 tbsp vegetable oil
+* 2 15oz cans black beans
+* 1 medium onion, finely chopped (~1 cup)
+* 1 large poblano pepper, finely chopped (~1 cup)
+* 3 medium cloves garlic, minced
+* 1 chipotle chili in adobo sauce, finely chopped
+* 1 tsp adobo sauce (from chili can)
+* 3/4 cup roasted cashews
+* 1/2 cup crumbled feta or cojita cheese
+* 2 tbsp mayonnaise
+* 1 egg
+* 3/4 cup panko bread crumbs
+* salt and pepper
+* Cheese for topping
+* 6-8 Hamburger buns
 
 ## Instructions
 
