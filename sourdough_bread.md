@@ -15,7 +15,7 @@ Every week or so:
 1. Let this sit somewhere warm for about 5 hours (oven with the light on works).
 
 ## The autolyse (2pm, bake day - 1)
-1. Mix 250g bread flour, 140g all purpose flour, 75g rye flour together until they are incoporated.
+1. Mix 290g bread flour, 140g all purpose flour, 40g rye flour together until they are incoporated.
 1. Add 330g water at 90-95f.
 1. Mix well.
 
