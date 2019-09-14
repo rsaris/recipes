@@ -15,12 +15,12 @@ Every week or so:
 1. Let this sit somewhere warm for about 5 hours (oven with the light on works).
 
 ## The autolyse (2pm, bake day - 1)
-1. Mix 250g bread flour, 140g all purpose flour, 75g rye flour together until they are incoporated.
+1. Mix 300g bread flour and 150g all purpose flour together until they are incoporated.
 1. Add 330g water at 90-95f.
 1. Mix well.
 
 ## The dough (2:30pm, bake day - 1)
-1. Sprinkle 9g salt over the autolyse and lay the levian on top. With a wet hand, dimple the levian into the autolyse.
+1. Sprinkle 10g salt over the autolyse and lay the levian on top. With a wet hand, dimple the levian into the autolyse.
 1. Pinch and mix the levian into the autolyse until it is incorporated (try not to over work the dough here).
 1. Let this sit in a warm place for 4 hours. Every 45 minutes or so, pull the dough out and stretch it out until it is just about to break and fold it over itself. Rotate and stretch and fold it two more times.
 1. After 4 hours it should roughly double in size.
@@ -41,6 +41,6 @@ Every week or so:
 1. Gently flip the dough out onto the parchment paper, remove the bowl and slowly remove the towel from the dough.
 1. Slash the dough in a special pattern, make sure the knife is sharp and the cuts are deep.
 1. Using the parchment paper, put the dough into the dutch oven.
-1. Place the dutch oven into the oven with the top on for 20 minutes.
+1. Place the dutch oven into the oven with the top on for 25 minutes.
 1. Take the cover off the dutch oven, lower the oven to 475, and bake for 20-30 more minutes until the crust is nice and there is a hollow knock on the bottom of the loaf.
 1. Put the loaf on a cooling rack for at least 1 hour before cutting into it.
