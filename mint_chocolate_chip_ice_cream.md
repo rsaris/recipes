@@ -6,14 +6,14 @@ https://www.simplyrecipes.com/recipes/mint_chocolate_chip_ice_cream/
 
 ## Ingredients 
 
-1. 3 cups fresh mint leaves (no seeds or stems)
-1. 1 cup milk
-1. 2 cups heavy cream (divided in half)
-1. 2/3 cup sugar
-1. Pinch of salt
-1. 6 egg yolks
-1. 6 oz dark chocolate
-1. 1 tbsp vegetable oil
+* 3 cups fresh mint leaves (no seeds or stems)
+* 1 cup milk
+* 2 cups heavy cream (divided in half)
+* 2/3 cup sugar
+* Pinch of salt
+* 6 egg yolks
+* 6 oz dark chocolate
+* 1 tbsp vegetable oil
 
 ## Instructions
 
