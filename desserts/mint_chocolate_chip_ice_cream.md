@@ -13,7 +13,7 @@ https://www.simplyrecipes.com/recipes/mint_chocolate_chip_ice_cream/
 * Pinch of salt
 * 6 egg yolks
 * 6 oz dark chocolate
-* 1 tbsp vegetable oil
+* 2 tbsp vegetable oil
 
 ## Instructions
 
@@ -29,6 +29,6 @@ https://www.simplyrecipes.com/recipes/mint_chocolate_chip_ice_cream/
 1. Heat mixture over medium heat, stirring constantly and scraping the bottom with a wooden spoon until mixture thickens and you can pull the spoon out and run a finger along it and it leaves clean lines (~10 minutes)
 1. Strain the custard mixture and pour into cold cream
 1. Chill mixture in the fridge for at least a couple hours
-1. Proccess ice cream in ice cream machine
+1. Proccess ice cream in ice cream machine (~25 minutes)
 1. While ice cream is processing, melt chocolate in double boiler, adding 1 tbsp vegetable oil to make it flow.
-1. Drizzle the chocolate into the ice cream machine while it processes to add a good ribbon of chocolate to the ice cream. This should happen while the ice cream is still soft but not completely set yet.
+1. Drizzle the chocolate into the ice cream machine while it processes to add a good ribbon of chocolate to the ice cream. This should happen while the ice cream is still soft but not completely set yet (~10 minutes in).
