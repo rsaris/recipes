@@ -9,14 +9,14 @@ https://www.kingarthurflour.com/recipes/chicago-style-deep-dish-pizza-recipe
 ## Ingredients
 
 ### Dough
-* 75g 100% hydration starter (starter made w/ 1:1 ratio water to flour)
-* 500g (~4 cups) all purpose flour
-* 35g (~3 tbsp) yellow cornmeal
-* 1 3/4 tbsp salt
-* 2 tbsp olive oil
-* 4 tbsp butter, melted
-* 2 tbsp vegetable oil
-* 250 g (~1 cup, 2 tbsp) water
+* 30g 100% hydration starter (starter made w/ 1:1 ratio water to flour)
+* 200g all purpose flour
+* 15g yellow cornmeal
+* 1 tbsp salt
+* 1 tbsp olive oil
+* 2 tbsp butter, melted
+* 1 tbsp vegetable oil
+* 110 g water
 
 ### Filling
 * 3/4 lb shredded mozzarella
