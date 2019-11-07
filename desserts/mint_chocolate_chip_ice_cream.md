@@ -12,7 +12,7 @@ https://www.simplyrecipes.com/recipes/mint_chocolate_chip_ice_cream/
 * 2/3 cup sugar
 * Pinch of salt
 * 6 egg yolks
-* 6 oz dark chocolate
+* 5 oz dark chocolate
 * 2 tbsp vegetable oil
 
 ## Instructions
