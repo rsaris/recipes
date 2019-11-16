@@ -44,3 +44,8 @@ Every week or so:
 1. Place the dutch oven into the oven with the top on for 25 minutes.
 1. Take the cover off the dutch oven, lower the oven to 475, and bake for 20-30 more minutes until the crust is nice and there is a hollow knock on the bottom of the loaf.
 1. Put the loaf on a cooling rack for at least 1 hour before cutting into it.
+
+# Variants
+
+## Rosemary bread
+1. When making the autolyse, add 40g olive oil and 30g chopped fresh rosemary.
