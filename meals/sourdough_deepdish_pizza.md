@@ -28,7 +28,7 @@ https://www.kingarthurflour.com/recipes/chicago-style-deep-dish-pizza-recipe
 ## Instructions
 
 ### Dough
-1. Combine all dough ingredients in a bowl (starter, flour, cornmeal, salt, 2 tbsp olive oil, 4 tbsp melted butter, 2 tbsp vegetable oil, 250g water)
+1. Combine all dough ingredients in a bowl (starter, flour, cornmeal, salt, 1 tbsp olive oil, 2 tbsp melted butter, 1 tbsp vegetable oil, 110g water)
 1. Knead until dough is smooth (~7 minutes) by hand or with a stand mixer
 1. Place dough in lightly oiled bowl and let rise until very puffy (~6-8 hours)
 
