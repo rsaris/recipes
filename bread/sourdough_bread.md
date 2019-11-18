@@ -3,14 +3,13 @@
 ## The starter
 Every week or so:
 1. Take the starter out of the fridge and discard all but 25g.
-1. Add 100g of warm water and mix it until the starter is dissolved (this doesn't have to be perfect)
-1. Add 100g of flour (50g all purpose, 50g rye) and stir until it is fully incorporated
+1. Add 110g of warm water and 100g of flour (50g all purpose, 50g rye) and stir until it is fully incorporated
 1. Let it stand partially covered (with a towel) for about 4 hours until it is getting bubbly.
 1. Seal it up and put it back into the fridge.
 
 ## The levian (9am, bake day - 1)
 1. A few days before your bake day, take your starter out of the fridge, let it warm up and feed it like above one a day. It should be growing well each day.
-1. When the starter is at it's peak, take 25g starter and mix it with 50g warm water until it's full dissolved. Then incorporate 50g flour (25g all purpose and 25g rye).
+1. When the starter is at it's peak, take 25g starter and mix it with 50g warm water and 50g flour (25g all purpose and 25g bread).
 1. At this point you may want to take some of the remaining starter, feed it as above, let it rest, and put it in the fridge for the next bake day.
 1. Let this sit somewhere warm for about 5 hours (oven with the light on works).
 
