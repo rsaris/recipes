@@ -48,4 +48,4 @@ Every week or so:
 # Variants
 
 ## Rosemary bread
-1. When making the autolyse, add 40g olive oil and 30g chopped fresh rosemary.
+1. When making the autolyse, add 30g olive oil and 15g chopped fresh rosemary.
