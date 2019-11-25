@@ -3,8 +3,8 @@
 ## The starter
 Every week or so:
 1. Take the starter out of the fridge and discard all but 25g.
-1. Add 110g of warm water and 100g of flour (50g all purpose, 50g rye) and stir until it is fully incorporated
-1. Let it stand partially covered (with a towel) for about 4 hours until it is getting bubbly.
+1. Add 100g of warm water and 100g of flour (50g all purpose, 50g bread flour) and stir until it is fully incorporated
+1. Let it stand partially covered (with a towel) for a few hours until it is getting bubbly.
 1. Seal it up and put it back into the fridge.
 
 ## The levian (9am, bake day - 1)
@@ -38,13 +38,19 @@ Every week or so:
 1. Retrieve a sheet of parchment paper that will cover the bottom and sides of the dutch oven.
 1. When the oven is ready, take the dough out of the fridge. Unfold the towel and place the parchment paper over the bowl.
 1. Gently flip the dough out onto the parchment paper, remove the bowl and slowly remove the towel from the dough.
-1. Slash the dough in a special pattern, make sure the knife is sharp and the cuts are deep.
+1. Slash0the dough in a special pattern, make sure the knife is sharp and the cuts are deep.
 1. Using the parchment paper, put the dough into the dutch oven.
 1. Place the dutch oven into the oven with the top on for 25 minutes.
 1. Take the cover off the dutch oven, lower the oven to 475, and bake for 20-30 more minutes until the crust is nice and there is a hollow knock on the bottom of the loaf.
 1. Put the loaf on a cooling rack for at least 1 hour before cutting into it.
 
 # Variants
+
+## Cinnamon raisin
+1. When making the autolyse, add 80g raisins, 7g cinnamon, and 2 tbsp melted butter.
+
+## Olive oil
+1. When making the autolyse, add 10g olive oil to make it a bit more dense.
 
 ## Rosemary bread
 1. When making the autolyse, add 30g olive oil and 15g chopped fresh rosemary.
