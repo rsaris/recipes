@@ -38,7 +38,7 @@ Every week or so:
 1. Retrieve a sheet of parchment paper that will cover the bottom and sides of the dutch oven.
 1. When the oven is ready, take the dough out of the fridge. Unfold the towel and place the parchment paper over the bowl.
 1. Gently flip the dough out onto the parchment paper, remove the bowl and slowly remove the towel from the dough.
-1. Slash0the dough in a special pattern, make sure the knife is sharp and the cuts are deep.
+1. Slash the dough in a special pattern, make sure the knife is sharp and the cuts are deep.
 1. Using the parchment paper, put the dough into the dutch oven.
 1. Place the dutch oven into the oven with the top on for 25 minutes.
 1. Take the cover off the dutch oven, lower the oven to 475, and bake for 20-30 more minutes until the crust is nice and there is a hollow knock on the bottom of the loaf.
