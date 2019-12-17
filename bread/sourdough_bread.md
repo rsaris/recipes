@@ -50,7 +50,7 @@ Every week or so:
 1. When making the autolyse, add 80g raisins, 7g cinnamon, and 2 tbsp melted butter.
 
 ## Olive oil
-1. When making the autolyse, add 10g olive oil to make it a bit more dense.
+1. When making the autolyse, add 30g olive oil to make it a bit more dense.
 
 ## Rosemary bread
 1. When making the autolyse, add 30g olive oil and 15g chopped fresh rosemary.
