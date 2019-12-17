@@ -3,14 +3,13 @@
 ## The starter
 Every week or so:
 1. Take the starter out of the fridge and discard all but 25g.
-1. Add 100g of warm water and mix it until the starter is dissolved (this doesn't have to be perfect)
-1. Add 100g of flour (50g all purpose, 50g rye) and stir until it is fully incorporated
-1. Let it stand partially covered (with a towel) for about 4 hours until it is getting bubbly.
+1. Add 100g of warm water and 100g of flour (50g all purpose, 50g bread flour) and stir until it is fully incorporated
+1. Let it stand partially covered (with a towel) for a few hours until it is getting bubbly.
 1. Seal it up and put it back into the fridge.
 
 ## The levian (9am, bake day - 1)
 1. A few days before your bake day, take your starter out of the fridge, let it warm up and feed it like above one a day. It should be growing well each day.
-1. When the starter is at it's peak, take 25g starter and mix it with 50g warm water until it's full dissolved. Then incorporate 50g flour (25g all purpose and 25g rye).
+1. When the starter is at it's peak, take 25g starter and mix it with 50g warm water and 50g flour (25g all purpose and 25g bread).
 1. At this point you may want to take some of the remaining starter, feed it as above, let it rest, and put it in the fridge for the next bake day.
 1. Let this sit somewhere warm for about 5 hours (oven with the light on works).
 
@@ -44,3 +43,14 @@ Every week or so:
 1. Place the dutch oven into the oven with the top on for 25 minutes.
 1. Take the cover off the dutch oven, lower the oven to 475, and bake for 20-30 more minutes until the crust is nice and there is a hollow knock on the bottom of the loaf.
 1. Put the loaf on a cooling rack for at least 1 hour before cutting into it.
+
+# Variants
+
+## Cinnamon raisin
+1. When making the autolyse, add 80g raisins, 7g cinnamon, and 2 tbsp melted butter.
+
+## Olive oil
+1. When making the autolyse, add 30g olive oil to make it a bit more dense.
+
+## Rosemary bread
+1. When making the autolyse, add 30g olive oil and 15g chopped fresh rosemary.
