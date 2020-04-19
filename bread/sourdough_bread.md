@@ -24,8 +24,8 @@ Every week or so:
 1. Place a towel in a bowl and flour it generously.
 1. Spill the dough onto an unfloured surface.
 1. While rotating, pull the sides up and in on itself to tighten the dough up and create a seam.
-1. To tighten the skin, put the dough seem side down and gently pull from the far side towards yourself, letting the friction of the bottom of the ball stretch but not break the skin.
-1. Place the dough ball seem side up in the bowl.
+1. To tighten the skin, put the dough seam side down and gently pull from the far side towards yourself, letting the friction of the bottom of the ball stretch but not break the skin.
+1. Place the dough ball seam side up in the bowl.
 1. Flour the top of the dough and fold the towel over to cover the dough.
 1. Put this in the fridge and let it sit for 12-15 hours.
 
