@@ -52,4 +52,6 @@ Every week or so:
 1. After making the dough, add 20g olive oil and 15g chopped fresh rosemary.
 
 ## Smaller loaves
-1. If you reduce the incredients to 80% of the normal size and bake for 25m / 20m it comes out just as good!
+1. If you reduce the ingredients to 80% of the normal amounts and bake for 25m / 20m it comes out just as good! This turns into:
+  * 20g starter, 40g flour, and 40g water for the levian
+  * 240g bread flour, 120g all purpose flour, 8g salt, and 240g+ water for the dough
