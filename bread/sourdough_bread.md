@@ -50,3 +50,6 @@ Every week or so:
 
 ## Rosemary bread
 1. After making the dough, add 20g olive oil and 15g chopped fresh rosemary.
+
+## Smaller loaves
+1. If you reduce the incredients to 80% of the normal size and bake for 25m / 20m it comes out just as good!
