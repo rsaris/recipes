@@ -6,8 +6,8 @@ This should make 8 pretzels
 
 ### The starter
 25g starter
-100g water
-100g flour (50g bread, 50g all purpose)
+50g water
+50g all purpose flour
 
 ### The dough
 200g water
