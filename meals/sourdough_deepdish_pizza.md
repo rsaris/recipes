@@ -43,3 +43,12 @@ https://www.kingarthurflour.com/recipes/chicago-style-deep-dish-pizza-recipe
 1. Sprinkle with grated parmesan, and drizzle with 2 tbsp olive oil
 1. Bake until the filling is bubbly and the top is golden brown (~25 minutes)
 1. Remove from the oven and remove pizza from pan to cool on a cooling rack for ~15 minutes before serving.
+
+## Toppings
+
+### Brussel sprouts, salami, and shallots
+1. Trim and half brussel sprouts, toss in oil and red pepper flakes, roast for 15-18 minutes at 450. Also set some aside and dice / cut into a slaw.
+1. Cut salami into small chunks or slices, peel shallot and slice into thin strands. Put the shallots in a small bowl and toss with some lemon juice.
+1. Prebaking the pizza for 15 minutes. Then put a layer of olive oil, then mozz, then minced garlic, the roasted brussel sprouts and salami, bake for ~8 minutes.
+1. Take pizza out and put brussel sprouts slaw on and put back in the oven for ~4 minutes, until the cheese is melted and the crust is getting brown.
+1. Strain the shallots and put them on to of the pizza.
