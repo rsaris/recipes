@@ -1,4 +1,4 @@
-# Sourdough Deepdish Pizza
+# Sourdough Pizza (deep dish and thin crust)
 
 Inspriations:
 
