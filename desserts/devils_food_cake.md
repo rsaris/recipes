@@ -1,4 +1,7 @@
 # Devils food cake
+
+This works well with this [frosting recipe](chocolate_buttercream_frosting.md)
+
 ## Ingredients
 
 * 3 oz good-quality unsweetened chocolate
