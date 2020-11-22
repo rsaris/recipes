@@ -30,7 +30,7 @@ This works well with this [frosting recipe](chocolate_buttercream_frosting.md)
 1. Ice the cake and serve.
 
 ## Cupcakes version
-Sometimes chocolate is sold in 4oz blocks, this can be used to make cupcakes by cutting the recipe in thirds:
+Sometimes chocolate is sold in 4oz blocks leaving 1oz with nothing to do! This recipe can be cut in third and make 8 cupcakes.
 
 * 1 oz good-quality unsweetened chocolate
 * 1/3 cup unsalted butter, at room temperature
@@ -44,6 +44,8 @@ Sometimes chocolate is sold in 4oz blocks, this can be used to make cupcakes by 
 * 1/3 cup boiling water
 * 2/3 teaspoons vanilla extract
 * 1/3 jar of raspberry jam
+
+Make the batter as you do above and bake in a cupcake tin for 15 minutes at 375. Once they've cooled, cut a circle in the top of the cupcake and remove a secion, core out a bit of the cupcake and put some jelly in. Put the cut out piece back and ice the cupcakes.
 
 ## Sources
 
