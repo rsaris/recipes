@@ -52,3 +52,11 @@ https://www.kingarthurflour.com/recipes/chicago-style-deep-dish-pizza-recipe
 1. Prebaking the pizza for 15 minutes. Then put a layer of olive oil, then mozz, then minced garlic, the roasted brussel sprouts and salami, bake for ~8 minutes.
 1. Take pizza out and put brussel sprouts slaw on and put back in the oven for ~4 minutes, until the cheese is melted and the crust is getting brown.
 1. Strain the shallots and put them on to of the pizza.
+
+## Variations
+### Thin crust
+
+For the dough use: 
+* 50g starter, 50g flour, 50g water for a levian
+* 300g AP flour, 50g bread flour, 200g water, 10g salt, and 2 tbsp melted butter
+* Prebake for 8 minutes at 450, bake for 12 minutes with cheese and toppings.
