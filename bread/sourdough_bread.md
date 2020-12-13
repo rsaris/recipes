@@ -59,9 +59,9 @@ Every week or so:
 ## Rolls
 To make smaller dinner rolls, we can follow a similar process with a few changes.
 
-1. Make a double batch of the smaller loaves dough (40g starter, 80g flour, 80g water for levian; 480g bread, 240g AP, 16g salt, and 480g water for dough) and add 30g olive oil.
+1. Make a double batch of the smaller loaves dough (40g starter, 80g flour, 80g water for levian; 480g bread, 240g AP, 16g salt, and 480g water for dough) and add 25g olive oil.
 1. Instead of shaping the dough, leave the dough in the bowl over night.
-1. The morning of the bake, cut the dough into 12 equally sized pieces and make balls (like you would with the normal dough, just smaller).
+1. The morning of the bake, cut the dough into 12 equally sized pieces and make balls (like you would with the normal dough, just smaller). Mine weighed in at approx 120g each. 
 1. Oil and flour the bottom of a 9x13 pyrex dish and place the balls in (I did 3 rows of 4)
-1. Place a baking sheet in the oven on the bottom rack of the oven and pour in a cup of water in it. Bake the rolls at 475 for 30 minutes.
+1. Place a baking sheet in the oven on the bottom rack of the oven and pour in a 4 cups of water in it. Bake the rolls at 475 for 30-40 minutes, until they get a good crust on top.
 1. Let the rolls cool on a cooling rack.
