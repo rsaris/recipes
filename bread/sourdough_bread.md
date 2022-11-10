@@ -51,6 +51,11 @@ Every week or so:
 ## Rosemary bread
 1. After making the dough, add 20g olive oil and 15g chopped fresh rosemary.
 
+## Pumpkin bread
+1. After making the smaller loaf dough, work in 150g of pumpkin puree and 20g of maple syrup.
+
+Notes -- This may be too watery so need to rethink the water / bread mixture after this first batch. Also may want to add some cinnamon.
+
 ## Smaller loaves
 1. If you reduce the ingredients to 80% of the normal amounts and bake for 25m / 20m it comes out just as good! This turns into:
     * 20g starter, 40g flour, and 40g water for the levian
