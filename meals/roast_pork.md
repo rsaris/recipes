@@ -1,37 +1,52 @@
 # Roast Pork
 
 ## Ingredients
-* 3 lb boneless pork roast
+* 3-4 lb boneless pork roast
 
-* 2 cloves garlic - minced
-* 2 tbsp salt
-* 2 tbsp pepper
-* 2 tbsp minced fresh basil
-* 2 tbsp oregano
-* 1 tbsp crushed red pepper flakes
+### Dry rub
+* 2 tbsp brown sugar
+* 1 tbsp salt
+* 1 tbsp black pepper
+* 1 tbsp paprika
+* 1 tsp thyme
+* 1 tsp oregano
+* 1 tsp garlic powder
+* 1 tsp onion powder
 
+### Roast
+* 5 cloves garlic - smashed
+* 2 big vidallia onions
+* 1 1/2 cups chicken stock
+* 1/2 cup white wine
+
+### Sandwiches
+* 2 bunches broccoli rabe
 * 2 tbsp olive oil
-
-* water (as needed)
-
-* 10-12 italian rolls
-* 10-12 slices provolone cheese
-
-* prepared broccoli rabe (blanch and saute with oil and garlic)
+* Minced garlic
+* 6 italian rolls
+* 12 slices provolone cheese
 
 ## Instructions
-1. Preheat oven to 350.
-1. Mix garlic (2 cloves), salt (2 tbsp), pepper (2 tbsp), basil (2 tbsp), oregano (2 tbsp), and red pepper flakes (1 tbsp) then add the oil (2 tbsp) and mix / muddle well. Score the roast and coat with rub.
-1. Place the roast in a 9x13 pyrex pan and put into the oven.
-1. After about 15 minutes (when the juices start running and fat starts to melt) add water up to about 1/2 inch up the pan.
-1. Check every 30 minutes or so and add water as needed, when water is added, pour some over the roast to keep the top from getting dry.
-1. Roast until the internal temperature reads 165-170 (about 1.5 hours total).
-1. Remove roast from pan, thicken gravy by making a roux and adding slowly to the juices at the bottom of the pan.
-1. Trim all visible fat and slice thin, preferably in the pan to keep all the juices. Place sliced pork into gravy.
+### Day 1
+1. If you have a layer of fat, score it in a criss cross pattern
+1. Combine dry rub ingredients and rub on pork
+1. Wrap in plastic and store in fridge for 8-24 hours
 
-Build sandwich with healthy amounts of pork and broccoli rabe topped with gravy, adding provolone cheese if desired.
+### Day 2
+1. Preheat oven to 450
+1. Slice onions and smash garlic
+1. Place onions in casserole dish and layer pork on top
+1. Add chicken stock, wine, and garlic to casserole dish
+1. Roast for 20 minutes and drop temperature to 300
+1. Cook until internal temperature of 140 degrees (approximately 1, 1.5 hours)
+1. Let cool, then wrap in aluminum foil and store in the fridge overnight
+1. Put juice, onions, and garlic into a bowl and use imersion blender to make au jus and store in fridge
 
-## Possible improvements
-* Possibly remove the basil and crushed red pepper flakes and reduce black pepper to make the taste a bit more simple.
-*  Find a way to increase the amount of gravy (maybe supplement w/ gravy packets).
-*  Watch the temperature, cooked for 1.5 hours and ended up drying it out a bit.
+
+### Day 3
+1. Slice pork very thin
+1. Blanche rabe (boil water, put rabe in for 1 min, then put into ice bath)
+1. Saute rabe with garlic and olive oil
+1. Build sandwiches with bread, cheese, pork, and rabe
+
+[Original inspiration](https://soufflebombay.com/philly-roast-pork-sandwich/)
